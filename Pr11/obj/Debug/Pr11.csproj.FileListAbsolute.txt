@@ -1,0 +1,10 @@
+D:\208\пр\Pr11\obj\Debug\Pr11.csprojAssemblyReference.cache
+D:\208\пр\Pr11\obj\Debug\Pr11.Properties.Resources.resources
+D:\208\пр\Pr11\obj\Debug\Pr11.csproj.GenerateResource.cache
+D:\208\пр\Pr11\obj\Debug\Pr11.csproj.CoreCompileInputs.cache
+D:\208\пр\Pr11\bin\Debug\Pr11.exe.config
+D:\208\пр\Pr11\bin\Debug\Pr11.exe
+D:\208\пр\Pr11\bin\Debug\Pr11.pdb
+D:\208\пр\Pr11\obj\Debug\Pr11.exe
+D:\208\пр\Pr11\obj\Debug\Pr11.pdb
+D:\208\пр\Pr11\obj\Debug\PR_11.Form1.resources
